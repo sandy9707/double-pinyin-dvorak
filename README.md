@@ -23,12 +23,14 @@ patch:
 ## Trime 安卓配置
 新增了 `trime.yaml` 文件，修改了 Trime 输入法在安卓上的表现。
 
+手机端之所以需要调整，是因为 q 和 z 的位置不符合正常布局。
+
 1. 输入方案参考：[double-pinyin-dvorak](https://github.com/igaryhe/double-pinyin-dvorak)
 2. 布局参考：[落格输入法-经典版](https://apps.apple.com/us/app/%E8%90%BD%E6%A0%BC%E8%BE%93%E5%85%A5%E6%B3%95-%E7%BB%8F%E5%85%B8%E7%89%88/id1140465593)
 
 ### 更改前后对比
 更改前：
-![layout_trime_before](./layout_trime_before.png)
+<img src="./layout_trime_before.png" width="50%" />
 
 更改后：
-![layout_trime](./layout_trime.png)
+<img src="./layout_trime.png" width="50%" />
